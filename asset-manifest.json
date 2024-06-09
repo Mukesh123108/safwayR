@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/safwayR/static/css/main.8b1acfc0.css",
-    "main.js": "/safwayR/static/js/main.89f27c89.js",
+    "main.css": "/safwayR/static/css/main.6c2db637.css",
+    "main.js": "/safwayR/static/js/main.af610d05.js",
     "static/js/453.0ece67e9.chunk.js": "/safwayR/static/js/453.0ece67e9.chunk.js",
     "static/media/fliban.png": "/safwayR/static/media/fliban.d4643922d9f7bf9499df.png",
     "static/media/banner.png": "/safwayR/static/media/banner.a0852ef54abd578ad740.png",
     "static/media/flight.png": "/safwayR/static/media/flight.ba7b0a0475f43e2ee826.png",
+    "static/media/g4.png": "/safwayR/static/media/g4.5c7e298253a5e9c5d667.png",
     "static/media/det.png": "/safwayR/static/media/det.0e984c82d317cf2b9813.png",
     "static/media/air.jpg": "/safwayR/static/media/air.a49e2ff1ceb72a0b5090.jpg",
     "static/media/ban.png": "/safwayR/static/media/ban.860139982966d0fa6d5b.png",
+    "static/media/g2.png": "/safwayR/static/media/g2.bf0ae070ca14d2b48929.png",
+    "static/media/g1.png": "/safwayR/static/media/g1.9a0b7b040d0b04f71391.png",
     "static/media/bus_right.png": "/safwayR/static/media/bus_right.b9205e554cdcbef44a8f.png",
+    "static/media/g5.png": "/safwayR/static/media/g5.4a854ce757c49107a102.png",
     "static/media/t2.jpg": "/safwayR/static/media/t2.f4ef7cd202e1a3a59ef1.jpg",
+    "static/media/g3.png": "/safwayR/static/media/g3.17922f2171838473e9b3.png",
+    "static/media/s2.jpg": "/safwayR/static/media/s2.252dfa4f8ced40133edd.jpg",
     "static/media/aboutus-img.png": "/safwayR/static/media/aboutus-img.184f73e9d926de482349.png",
     "static/media/t1.jpg": "/safwayR/static/media/t1.c4190f4450a4f294afb6.jpg",
     "static/media/serv3.png": "/safwayR/static/media/serv3.9e79857c5deb4024ed68.png",
+    "static/media/s1.jpg": "/safwayR/static/media/s1.8b05e1018d19d20cb113.jpg",
     "static/media/serv2.png": "/safwayR/static/media/serv2.31ec7559170d83dde222.png",
     "static/media/trip-advisor-img.png": "/safwayR/static/media/trip-advisor-img.1d7a5f747a1bb300fa2c.png",
     "static/media/b1.jpg": "/safwayR/static/media/b1.92c3d45050aff7837dba.jpg",
@@ -64,12 +71,12 @@
     "index.html": "/safwayR/index.html",
     "static/media/icon-team-builder.svg": "/safwayR/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
     "static/media/icon-calculator.svg": "/safwayR/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
-    "main.8b1acfc0.css.map": "/safwayR/static/css/main.8b1acfc0.css.map",
-    "main.89f27c89.js.map": "/safwayR/static/js/main.89f27c89.js.map",
+    "main.6c2db637.css.map": "/safwayR/static/css/main.6c2db637.css.map",
+    "main.af610d05.js.map": "/safwayR/static/js/main.af610d05.js.map",
     "453.0ece67e9.chunk.js.map": "/safwayR/static/js/453.0ece67e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b1acfc0.css",
-    "static/js/main.89f27c89.js"
+    "static/css/main.6c2db637.css",
+    "static/js/main.af610d05.js"
   ]
 }
