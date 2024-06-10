@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/safwayR/static/css/main.186c4211.css",
-    "main.js": "/safwayR/static/js/main.3807b659.js",
+    "main.css": "/safwayR/static/css/main.51e7301a.css",
+    "main.js": "/safwayR/static/js/main.aeb19d68.js",
     "static/js/453.0ece67e9.chunk.js": "/safwayR/static/js/453.0ece67e9.chunk.js",
     "static/media/fliban.png": "/safwayR/static/media/fliban.d4643922d9f7bf9499df.png",
     "static/media/banner.png": "/safwayR/static/media/banner.a0852ef54abd578ad740.png",
@@ -71,12 +71,12 @@
     "index.html": "/safwayR/index.html",
     "static/media/icon-team-builder.svg": "/safwayR/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
     "static/media/icon-calculator.svg": "/safwayR/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
-    "main.186c4211.css.map": "/safwayR/static/css/main.186c4211.css.map",
-    "main.3807b659.js.map": "/safwayR/static/js/main.3807b659.js.map",
+    "main.51e7301a.css.map": "/safwayR/static/css/main.51e7301a.css.map",
+    "main.aeb19d68.js.map": "/safwayR/static/js/main.aeb19d68.js.map",
     "453.0ece67e9.chunk.js.map": "/safwayR/static/js/453.0ece67e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.186c4211.css",
-    "static/js/main.3807b659.js"
+    "static/css/main.51e7301a.css",
+    "static/js/main.aeb19d68.js"
   ]
 }
